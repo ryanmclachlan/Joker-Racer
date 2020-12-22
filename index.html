@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<title>car racing</title>
+	<title>It's A Wrap RACER</title>
 	
 	<!-- Standardised web app manifest -->
 	<link rel="manifest" href="appmanifest.json" />
