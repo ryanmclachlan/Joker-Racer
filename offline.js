@@ -43,7 +43,7 @@
 		"media/carstart.ogg",
 		"media/race start.ogg",
 		"media/explode.ogg",
-		"media/loop.ogg",
+		"media/loop.m4a",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
